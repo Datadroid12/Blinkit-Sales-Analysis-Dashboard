@@ -22,8 +22,11 @@ The project uses an Excel file comprising three sheets:
 🔍Business Insights from Dashboard Sheet:
 
 The key business insights include:
+
 •	Sales Trends: Identification of high-performing outlets and items.
+
 •	Rating Correlation: Understanding how outlet ratings impact sales.
+
 •	Optimization Opportunities: Recommendations for improving low-performing outlets and items.
 
 💻 Interactive Dashboard Features:
@@ -46,6 +49,7 @@ The KPIs are designed to provide actionable insights into sales performance and 
 🗃️ ✅Key Takeaways:
 
 the KPIs aim to address the pain points by:
+
 •	Pinpointing underperforming outlets and items for targeted interventions.
 
 •	Aligning visibility metrics with actual sales to evaluate marketing effectiveness.
