@@ -14,7 +14,9 @@ The project uses an Excel file comprising three sheets:
 🎯 Pain Points to Address:
 
 •	Low sales performance in specific outlets: Identifying patterns or factors that influence sales.
+
 •	High item visibility but low sales: Understanding discrepancies between marketing and actual purchases.
+
 •	Improving outlet ratings: Uncovering factors affecting customer satisfaction.
 
 🔍Business Insights from Dashboard Sheet:
@@ -28,7 +30,9 @@ The key business insights include:
 
 The dashboard will include:
 •	Filters: For selecting specific outlets, items, or date ranges.
+
 •	Charts and Graphs: Visual representations of sales trends, item performance, and outlet comparisons.
+
 •	KPIs: Real-time display of total sales, average sales, and ratings.
 
 📈Key Performance Indicators (KPIs):
@@ -43,7 +47,9 @@ The KPIs are designed to provide actionable insights into sales performance and 
 
 the KPIs aim to address the pain points by:
 •	Pinpointing underperforming outlets and items for targeted interventions.
+
 •	Aligning visibility metrics with actual sales to evaluate marketing effectiveness.
+
 •	Tracking rating trends to prioritize customer experience enhancements.
 Integrating these KPIs into an interactive dashboard allows stakeholders to make data-driven decisions to improve sales and customer satisfaction.
 
@@ -57,6 +63,7 @@ Integrating these KPIs into an interactive dashboard allows stakeholders to make
 ⚙️Technologies Used to Complete the Project:
 
 •	Microsoft Excel: For data storage and initial calculations.
+
 •	Visualization Tools: Tools like Pivot Chart to create the interactive dashboard.
 This document provides an overview of the project goals and processes, offering a clear understanding of how insights are derived and presented to address key business challenges.
 
